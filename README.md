@@ -1,2 +1,2 @@
 # Online Profile
-## Web Programming Final Progect based on HTML/CSS
+## Web Programming Final Project based on HTML/CSS
